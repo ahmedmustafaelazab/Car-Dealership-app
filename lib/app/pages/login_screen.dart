@@ -37,7 +37,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 verticalSpace(30),
                 Row(
                   children: [
-                    Text("CAR ZONE",
+                    Text("Car Zone",
                         style: Theme.of(context).textTheme.bodyLarge),
                     horizontalSpace(12),
                     const Icon(
